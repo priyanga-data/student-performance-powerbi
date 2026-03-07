@@ -22,7 +22,7 @@ This project analyzes student performance and attendance data using **Power BI**
 ---
 
 ## 🖼 Dashboard Preview
-![Dashboard Overview](screenshots/dashboard_overview.png)
+![Dashboard Overview](dashboard_overview.png)
 
 ---
 
